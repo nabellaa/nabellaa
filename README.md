@@ -1,14 +1,10 @@
 # Hi, I'm Nabila! 👋
 
-A former conservation biologist and GIS analyst who 
-somehow ended up falling in love with data pipelines 
-and automation 🌿➡️📊
+A former conservation biologist and GIS analyst who somehow ended up falling in love with data pipelines and automation 🌿➡️📊
 
-**Fun fact:** that's actually me in my profile picture
-caught by my own camera trap during my thesis fieldwork  
-managing thousands of wildlife images and large field datasets 
-was my first real encounter with big data. I didn't know it 
-would lead me here, but curiosity has a funny way of showing up 🌿
+**Fun fact:** that's actually me in my profile picture caught by my own camera trap during my thesis fieldwork. 
+Managing thousands of wildlife images and large field datasets was my first real encounter with big data. 
+I didn't know it would lead me here, but curiosity has a funny way of showing up 🌿
 
 ## 🛠️ What I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,6 +17,21 @@ would lead me here, but curiosity has a funny way of showing up 🌿
 - 🐍 Python Programming
 - 📊 Data Analytics with Python (Coursera)
 
+## 📌 Projects
+
+**Current:**
+- 🔵 [Telco Customer Churn Analysis](https://github.com/nabellaa/telco-customer-churn-analysis)
+- 🟢 [HR Attrition Analysis & Automation Pipeline](https://github.com/nabellaa/hr-attrition-analysis)
+
+**Learning Series — Same Dataset, Different Tools:**
+- 🗄️ [Superstore SQL Analysis](https://github.com/nabellaa/retail_sales_sql_analysis)
+- 🐍 [Superstore Python Analysis](https://github.com/nabellaa/retail_sales_analysis_python)
+- 📊 [Superstore Power BI Dashboard](https://github.com/nabellaa/superstore-sales-dashboard-powerbi)
+
+**Planned:**
+- 🌿 Mount Khantan Wildlife Camera Trap Analysis
+*(My very first Python project using real field data from my own thesis. Coming back to redo it properly)*
+
 ## 🌱 Currently Learning
 - VS Code 
 - Advanced pipeline automation
@@ -31,7 +42,7 @@ would lead me here, but curiosity has a funny way of showing up 🌿
 - Build end-to-end projects that solve real problems
 - Always find better, faster, and more efficient ways 
   to solve problems (because doing things manually 
-  is just boring and tiring 😂)
+  is just boring and tiring)
 - Never stop learning 
 
 ## 📫 Let's Connect!
