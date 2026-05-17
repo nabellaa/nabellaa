@@ -23,7 +23,7 @@ I didn't know it would lead me here, but curiosity has a funny way of showing up
 - 🔵 [Telco Customer Churn Analysis](https://github.com/nabellaa/telco-customer-churn-analysis)
 - 🟢 [HR Attrition Analysis & Automation Pipeline](https://github.com/nabellaa/hr-attrition-analysis)
 
-**Learning Series — Same Dataset, Different Tools:**
+**Learning Series, Same Dataset, Different Tools:**
 - 🗄️ [Superstore SQL Analysis](https://github.com/nabellaa/retail_sales_sql_analysis)
 - 🐍 [Superstore Python Analysis](https://github.com/nabellaa/retail_sales_analysis_python)
 - 📊 [Superstore Power BI Dashboard](https://github.com/nabellaa/superstore-sales-dashboard-powerbi)
