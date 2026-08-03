@@ -11,6 +11,7 @@ I didn't know it would lead me here, but curiosity has a funny way of showing up
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📜 Certifications
@@ -19,23 +20,19 @@ I didn't know it would lead me here, but curiosity has a funny way of showing up
 
 ## 📌 Projects
 
-**Current:**
+**Conservation Tech — Featured:**
+- 🌿 [Wildlife Monitoring Pipeline](https://github.com/nabellaa/wildlife-monitoring-pipeline)
+*(Production-ready AI wildlife monitoring system, MegaDetector + SpeciesNet + Streamlit review app+ Power BI dashboard. Built from ~86,000 real camera trap images from my own thesis fieldwork)*
+
+**Data Analytics:**
 - 🔵 [Telco Customer Churn Analysis](https://github.com/nabellaa/telco-customer-churn-analysis)
 - 🟢 [HR Attrition Analysis & Automation Pipeline](https://github.com/nabellaa/hr-attrition-analysis)
+
 
 **Learning Series, Same Dataset, Different Tools:**
 - 🗄️ [Superstore SQL Analysis](https://github.com/nabellaa/retail_sales_sql_analysis)
 - 🐍 [Superstore Python Analysis](https://github.com/nabellaa/retail_sales_analysis_python)
 - 📊 [Superstore Power BI Dashboard](https://github.com/nabellaa/superstore-sales-dashboard-powerbi)
-
-**Planned:**
-- 🌿 Mount Khantan Wildlife Camera Trap Analysis
-*(My very first Python project using real field data from my own thesis. Coming back to redo it properly)*
-
-## 🌱 Currently Learning
-- VS Code 
-- Advanced pipeline automation
-- Automated reporting with Python
 
 ## 🎯 Goals
 - Break into the data analytics field
